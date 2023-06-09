@@ -16,7 +16,7 @@ Delete a ToDo: Click on the task you want to delete, and a confirmation prompt w
 
 # Technologies Used
 Front-end: react and vitz
-backend: Ruby  {https://github.com/Rashidcodes0/phase-3-sinatra-react-project.git}
+backend: Ruby   https://github.com/Rashidcodes0/phase-3-sinatra-react-project.git
 
 
 # License
