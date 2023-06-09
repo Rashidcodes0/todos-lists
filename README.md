@@ -9,15 +9,15 @@ Delete a ToDo: Remove a task from the list permanently.
 
  # Use the app's user interface to perform the following actions:
 Create a New ToDo: Click on the "Add ToDo" button and fill in the required fields in the form. Then click "Submit" to add the task to the list.
+
 Read All Todos: The list of existing tasks is displayed on the main page.
+
 Delete a ToDo: Click on the task you want to delete, and a confirmation prompt will appear. Click "Delete" to remove the task permanently.
 
 # Technologies Used
-Front-end: HTML, CSS, JavaScript
-Back-end: Node.js, Express.js
-Database: Ruby
-Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request on the GitHub repository.
+Front-end: react and vitz
+backend: Ruby  {https://github.com/Rashidcodes0/phase-3-sinatra-react-project.git}
+
 
 # License
 This project is licensed under the MIT License.
